@@ -1,4 +1,4 @@
-package diseñoPOO;
+package diseniopoo;
 import java.util.Scanner;
 
 public class EjecutaCerveza {

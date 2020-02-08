@@ -1,4 +1,4 @@
-package diseñoPOO;
+package diseniopoo;
 
 public class Cerveza {
     private Double precio;
@@ -7,10 +7,10 @@ public class Cerveza {
     private String tipo;
 
     public Cerveza(Double precio, int unidades, String nombre, String tipo) {
-    this.precio = precio;
-    this.unidades = unidades;
-    this.nombre = nombre;
-    this.tipo = tipo;
+        this.precio = precio;
+        this.unidades = unidades;
+        this.nombre = nombre;
+        this.tipo = tipo;
     }
 
     public Double getPrecio() {
@@ -45,14 +45,15 @@ public class Cerveza {
         this.tipo = tipo;
     }
 
-    public Double calcular_total(){
-        double total =  this.precio * this.unidades;
+    public Double calcular_total() {
+        double total = this.precio * this.unidades;
         return total;
     }
-    public String presentar(){
+
+    public String presentar() {
         String cadena = String.format("| Cerveza: %s\n| Tipo: %s\n| Precio: %.2f\n" +
-                "| Unidades Vendidas: %d\n|\n| TOTAL VENTAS $%.2f",
-                nombre, tipo,precio,unidades, calcular_total());
+                        "| Unidades Vendidas: %d\n|\n| TOTAL VENTAS $%.2f",
+                nombre, tipo, precio, unidades, calcular_total());
         return cadena;
     }
 

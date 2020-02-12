@@ -1,7 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d7b5b469-1e37-4b9e-919a-a50862087b0f" name="Default Changelist" comment="" />
+    <list default="true" id="d7b5b469-1e37-4b9e-919a-a50862087b0f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/poo2020/diseniopoo/Cerveza.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/poo2020/diseniopoo/EjecutaCerveza.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/poo2020/diseniopoo2/EjecutaEstudianteNotas.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/poo2020/diseniopoo2/EstudianteNotas.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/poo2020/intropoo/EjecutaTiempo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/poo2020/intropoo/Tiempo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/poo2020/taller1/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/poo2020/taller1/Celular.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/poo2020/taller1/Computadora.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/poo2020/taller1/Docente.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/poo2020/taller1/EjecutaAnimal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/poo2020/taller1/EjecutaCelular.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/poo2020/taller1/EjecutaComputadora.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/poo2020/taller1/EjecutaDocente.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/poo2020/taller1/EjecutaEstudiante.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/poo2020/taller1/EjecutaUniversidad.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/poo2020/taller1/EjecutaVehiculo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/poo2020/taller1/Estudiante.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/poo2020/taller1/Universidad.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/poo2020/taller1/Vehiculo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poo2020.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/diseniopoo/Cerveza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/diseniopoo/EjecutaCerveza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/diseniopoo2/EjecutaEstudianteNotas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/diseniopoo2/EstudianteNotas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intropoo/EjecutaTiempo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intropoo/Tiempo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/taller1/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/taller1/Celular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/taller1/Computadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/taller1/Docente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/taller1/EjecutaAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/taller1/EjecutaCelular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/taller1/EjecutaComputadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/taller1/EjecutaDocente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/taller1/EjecutaEstudiante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/taller1/EjecutaUniversidad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/taller1/EjecutaVehiculo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/taller1/Estudiante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/taller1/Universidad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/taller1/Vehiculo.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,8 +122,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EjecutaEstudianteNotas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="diseniopoo2.EjecutaEstudianteNotas" />
+    <configuration name="EjecutaEstudianteNota" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="diseniopoo2.EjecutaEstudianteNota" />
       <module name="poo2020" />
       <extension name="coverage">
         <pattern>
@@ -123,7 +170,10 @@
       <updated>1581000481355</updated>
       <workItem from="1581000486106" duration="6450000" />
       <workItem from="1581081488469" duration="6944000" />
-      <workItem from="1581171003883" duration="6275000" />
+      <workItem from="1581171003883" duration="7071000" />
+      <workItem from="1581256243524" duration="139000" />
+      <workItem from="1581444651535" duration="1304000" />
+      <workItem from="1581468362435" duration="846000" />
     </task>
     <servers />
   </component>
@@ -147,26 +197,30 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="387" y="68" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/0.0.1366.768@0.0.1366.768" timestamp="1581171483528" />
+    <state x="275" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1581469295191">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.768@0.0.1366.768" timestamp="1581469295191" />
     <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1581174112178">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1581174112178" />
-    <state width="1323" height="238" key="GridCell.Tab.0.bottom" timestamp="1581177407579">
+    <state width="1323" height="238" key="GridCell.Tab.0.bottom" timestamp="1581182643853">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="238" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1581177407579" />
-    <state width="1323" height="238" key="GridCell.Tab.0.center" timestamp="1581177407579">
+    <state width="1323" height="238" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1581182643853" />
+    <state width="1323" height="238" key="GridCell.Tab.0.center" timestamp="1581182643853">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="238" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1581177407579" />
-    <state width="1323" height="238" key="GridCell.Tab.0.left" timestamp="1581177407579">
+    <state width="1323" height="238" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1581182643853" />
+    <state width="1323" height="238" key="GridCell.Tab.0.left" timestamp="1581182643853">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="238" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1581177407579" />
-    <state width="1323" height="238" key="GridCell.Tab.0.right" timestamp="1581177407579">
+    <state width="1323" height="238" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1581182643853" />
+    <state width="1323" height="238" key="GridCell.Tab.0.right" timestamp="1581182643853">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="238" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1581177407579" />
+    <state width="1323" height="238" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1581182643853" />
     <state x="184" y="27" key="SettingsEditor" timestamp="1581176668709">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -175,6 +229,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="498" height="398" key="SwitcherDM/0.0.1366.768@0.0.1366.768" timestamp="1581007934968" />
+    <state x="56" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1581468369471">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="56" y="165" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1581468369471" />
     <state x="214" y="52" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1581171858599">
       <screen x="0" y="0" width="1366" height="768" />
     </state>

@@ -1,6 +1,6 @@
 package diseniopoo2;
 
-public class EstudianteNotas {
+public class EstudianteNota {
     private double nota1;
     private double nota2;
     private double total;
@@ -14,7 +14,7 @@ public class EstudianteNotas {
      * @param nombre
      * @param materia
      */
-    public EstudianteNotas(double nota1, double nota2, String nombre, String materia) {
+    public EstudianteNota(double nota1, double nota2, String nombre, String materia) {
         this.nota1 = nota1;
         this.nota2 = nota2;
         this.nombre = nombre;

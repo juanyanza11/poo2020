@@ -2,7 +2,7 @@ package diseniopoo2;
 
 import java.util.Scanner;
 
-public class EjecutaEstudianteNotas {
+public class EjecutaEstudianteNota {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
         double bim1, bim2;
@@ -40,10 +40,10 @@ public class EjecutaEstudianteNotas {
 
         // Creacion del objeto Con parámetros enviados usando entradas del Scanner
 
-        EstudianteNotas estudianteNotas = new EstudianteNotas(bim1, bim2, nombreE, materia);
+        EstudianteNota estudianteNota = new EstudianteNota(bim1, bim2, nombreE, materia);
 
 
-        String presentar = estudianteNotas.presentar();
+        String presentar = estudianteNota.presentar();
         System.out.println("-------------------------------------------------");
         System.out.println(presentar);
         System.out.println("-------------------------------------------------");

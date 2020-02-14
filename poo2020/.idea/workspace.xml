@@ -8,12 +8,27 @@
       <change afterPath="$PROJECT_DIR$/src/deber_seleccion/EstudianteNota.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/deber_seleccion/MayorNum.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/deber_seleccion/SueldoEmp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/disenio_repeticion/EjecutaSueldoEmp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/disenio_repeticion/EjecutaSueldoEmpFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/disenio_repeticion/EjecutaSueldoEmpWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/disenio_repeticion/SueldoEmp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/taller_repeticion/Cajero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/taller_repeticion/Division.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/taller_repeticion/EjecutaCajero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/taller_repeticion/EjecutaDivison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/taller_repeticion/EjecutaFactorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/taller_repeticion/EjecutaMultiplicacionSumas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/taller_repeticion/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/taller_repeticion/MultiplicacionSumas.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="190" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -27,17 +42,20 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1XREPLoKyRLdGuUDL3HkHECLDT3" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/disenio_repeticion" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -45,16 +63,17 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Usuario\Documents\POO2020\poo2020\poo2020\src\disenio_repeticion" />
       <recent name="C:\Users\Usuario\Documents\POO2020\poo2020\poo2020\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EjecutaSueldoEmp">
-    <configuration name="EjecutaDia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="disenio_seleccion.EjecutaDia" />
+  <component name="RunManager" selected="Application.EjecutaCajero">
+    <configuration name="EjecutaCajero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="taller_repeticion.EjecutaCajero" />
       <module name="poo2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="disenio_seleccion.*" />
+          <option name="PATTERN" value="taller_repeticion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EjecutaEmpleado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="disenio_seleccion.EjecutaEmpleado" />
+    <configuration name="EjecutaFactorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="taller_repeticion.EjecutaFactorial" />
       <module name="poo2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="disenio_seleccion.*" />
+          <option name="PATTERN" value="taller_repeticion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EjecutaEstudianteNota" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="deber_seleccion.EjecutaEstudianteNota" />
+    <configuration name="EjecutaMultiplicacionSumas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="taller_repeticion.EjecutaMultiplicacionSumas" />
       <module name="poo2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="deber_seleccion.*" />
+          <option name="PATTERN" value="taller_repeticion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EjecutaMayorNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="deber_seleccion.EjecutaMayorNum" />
+    <configuration name="EjecutaSueldoEmpFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="disenio_repeticion.EjecutaSueldoEmpFor" />
       <module name="poo2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="deber_seleccion.*" />
+          <option name="PATTERN" value="disenio_repeticion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EjecutaSueldoEmp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="deber_seleccion.EjecutaSueldoEmp" />
+    <configuration name="EjecutaSueldoEmpWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="disenio_repeticion.EjecutaSueldoEmpWhile" />
       <module name="poo2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="deber_seleccion.*" />
+          <option name="PATTERN" value="disenio_repeticion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EjecutaSueldoEmp" />
-        <item itemvalue="Application.EjecutaMayorNum" />
-        <item itemvalue="Application.EjecutaEstudianteNota" />
-        <item itemvalue="Application.EjecutaDia" />
-        <item itemvalue="Application.EjecutaEmpleado" />
+        <item itemvalue="Application.EjecutaCajero" />
+        <item itemvalue="Application.EjecutaMultiplicacionSumas" />
+        <item itemvalue="Application.EjecutaFactorial" />
+        <item itemvalue="Application.EjecutaSueldoEmpFor" />
+        <item itemvalue="Application.EjecutaSueldoEmpWhile" />
       </list>
     </recent_temporary>
   </component>
@@ -147,11 +166,16 @@
       <workItem from="1581526329064" duration="353000" />
       <workItem from="1581540140226" duration="10214000" />
       <workItem from="1581621568112" duration="5186000" />
+      <workItem from="1581685835085" duration="11857000" />
+      <workItem from="1581707840730" duration="5455000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="43" key="#Notifications" timestamp="1581173863454">
@@ -166,10 +190,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="453" y="85" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1581084732098" />
-    <state x="387" y="68" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" timestamp="1581525662774">
+    <state x="387" y="68" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" timestamp="1581709102342">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="387" y="68" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/0.0.1366.768@0.0.1366.768" timestamp="1581525662774" />
+    <state x="387" y="68" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/0.0.1366.768@0.0.1366.768" timestamp="1581709102342" />
     <state x="275" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1581469295191">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -182,38 +206,38 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1581174112178" />
-    <state width="1323" height="238" key="GridCell.Tab.0.bottom" timestamp="1581626883458">
+    <state width="1323" height="237" key="GridCell.Tab.0.bottom" timestamp="1581713367308">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="238" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1581626883458" />
-    <state width="1323" height="238" key="GridCell.Tab.0.center" timestamp="1581626883458">
+    <state width="1323" height="237" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1581713367308" />
+    <state width="1323" height="237" key="GridCell.Tab.0.center" timestamp="1581713367308">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="238" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1581626883458" />
-    <state width="1323" height="238" key="GridCell.Tab.0.left" timestamp="1581626883458">
+    <state width="1323" height="237" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1581713367308" />
+    <state width="1323" height="237" key="GridCell.Tab.0.left" timestamp="1581713367308">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="238" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1581626883458" />
-    <state width="1323" height="238" key="GridCell.Tab.0.right" timestamp="1581626883458">
+    <state width="1323" height="237" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1581713367308" />
+    <state width="1323" height="237" key="GridCell.Tab.0.right" timestamp="1581713367308">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="238" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1581626883458" />
-    <state width="1323" height="238" key="GridCell.Tab.1.bottom" timestamp="1581546185514">
+    <state width="1323" height="237" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1581713367308" />
+    <state width="1323" height="238" key="GridCell.Tab.1.bottom" timestamp="1581702508476">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="238" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1581546185514" />
-    <state width="1323" height="238" key="GridCell.Tab.1.center" timestamp="1581546185514">
+    <state width="1323" height="238" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1581702508476" />
+    <state width="1323" height="238" key="GridCell.Tab.1.center" timestamp="1581702508475">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="238" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1581546185514" />
-    <state width="1323" height="238" key="GridCell.Tab.1.left" timestamp="1581546185514">
+    <state width="1323" height="238" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1581702508475" />
+    <state width="1323" height="238" key="GridCell.Tab.1.left" timestamp="1581702508475">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="238" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1581546185514" />
-    <state width="1323" height="238" key="GridCell.Tab.1.right" timestamp="1581546185514">
+    <state width="1323" height="238" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1581702508475" />
+    <state width="1323" height="238" key="GridCell.Tab.1.right" timestamp="1581702508476">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="238" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1581546185514" />
+    <state width="1323" height="238" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1581702508476" />
     <state x="184" y="27" key="SettingsEditor" timestamp="1581176668709">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -222,25 +246,30 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="498" height="398" key="SwitcherDM/0.0.1366.768@0.0.1366.768" timestamp="1581007934968" />
-    <state x="56" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1581621562662">
+    <state x="56" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1581707845299">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="56" y="165" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1581621562662" />
+    <state x="56" y="165" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1581707845299" />
     <state x="214" y="52" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1581171858599">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="214" y="52" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.768@0.0.1366.768" timestamp="1581171858599" />
-    <state x="65" y="5" key="new project wizard" timestamp="1581546410542">
+    <state x="65" y="5" key="new project wizard" timestamp="1581687368916">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="65" y="5" key="new project wizard/0.0.1366.768@0.0.1366.768" timestamp="1581546410542" />
-    <state x="339" y="172" key="run.anything.popup" timestamp="1581087907960">
+    <state x="65" y="5" key="new project wizard/0.0.1366.768@0.0.1366.768" timestamp="1581687368916" />
+    <state x="339" y="172" key="run.anything.popup" timestamp="1581691761584">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="339" y="172" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1581087907960" />
-    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1581546103258">
+    <state x="339" y="172" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1581691761584" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1581709258698">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1581546103258" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1581709258698" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/poo2020$EjecutaCajero.ic" NAME="EjecutaCajero Coverage Results" MODIFIED="1581713144406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>taller_repeticion.*</FILTER>
+    </SUITE>
   </component>
 </project>

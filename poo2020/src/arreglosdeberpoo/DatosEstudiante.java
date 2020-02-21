@@ -26,7 +26,7 @@ public class DatosEstudiante {
 
     /**
      * Metodo de presentación que acumula cadenas mediante String.format
-     * @return
+     * @return cadena
      */
     public String presentar(){
         for (int i = 0; i < cel.length; i++) {

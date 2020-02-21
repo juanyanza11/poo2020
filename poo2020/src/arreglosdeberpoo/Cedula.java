@@ -42,7 +42,7 @@ public class Cedula {
         residuo = 0;
         for (int i = 0; i < 9; i++) {
             producto = parse()[i] * coef[i];
-            //  Condición que si los productos con la constante son mayores o iguales a 19 se resta 9
+            //  Condición que si los productos con la constante son mayores o iguales a 10 se resta 9
             if (producto >= 10) {
                 producto = producto - 9;
             }

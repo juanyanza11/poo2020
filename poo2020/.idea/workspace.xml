@@ -24,6 +24,10 @@
       <change afterPath="$PROJECT_DIR$/src/disenio_repeticion/EjecutaSueldoEmpFor.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/disenio_repeticion/EjecutaSueldoEmpWhile.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/disenio_repeticion/SueldoEmp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/matrizpoo/EjecutaMatriz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/matrizpoo/EjecutaMatrizPromedio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/matrizpoo/Matriz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/matrizpoo/MatrizPromedio.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/taller_repeticion/Cajero.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/taller_repeticion/Division.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/taller_repeticion/EjecutaCajero.java" afterDir="false" />
@@ -79,7 +83,7 @@
       <recent name="C:\Users\Usuario\Documents\POO2020\poo2020\poo2020\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EjecutaCedula">
+  <component name="RunManager">
     <configuration name="EjecutaBinario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arreglosdeberpoo.EjecutaBinario" />
       <module name="poo2020" />
@@ -106,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EjecutaDM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arreglos_poo.EjecutaDM" />
+    <configuration name="EjecutaMatriz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="matrizpoo.EjecutaMatriz" />
       <module name="poo2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arreglos_poo.*" />
+          <option name="PATTERN" value="matrizpoo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EjecutaDatosEstudiantes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arreglosdeberpoo.EjecutaDatosEstudiantes" />
+    <configuration name="EjecutaMatrizPromedio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="matrizpoo.EjecutaMatrizPromedio" />
       <module name="poo2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arreglosdeberpoo.*" />
+          <option name="PATTERN" value="matrizpoo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EjecutaProducto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arreglos_poo.EjecutaProducto" />
+    <configuration name="EjecutaMatrizTranspuesta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="matrizpoo.EjecutaMatrizTranspuesta" />
       <module name="poo2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arreglos_poo.*" />
+          <option name="PATTERN" value="matrizpoo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EjecutaMatrizTranspuesta" />
+        <item itemvalue="Application.EjecutaMatrizPromedio" />
+        <item itemvalue="Application.EjecutaMatriz" />
         <item itemvalue="Application.EjecutaCedula" />
         <item itemvalue="Application.EjecutaBinario" />
-        <item itemvalue="Application.EjecutaDatosEstudiantes" />
-        <item itemvalue="Application.EjecutaDM" />
-        <item itemvalue="Application.EjecutaProducto" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +188,10 @@
       <workItem from="1581950354041" duration="679000" />
       <workItem from="1582204802764" duration="208000" />
       <workItem from="1582205287851" duration="10489000" />
-      <workItem from="1582223476446" duration="16626000" />
+      <workItem from="1582223476446" duration="16764000" />
+      <workItem from="1582241518409" duration="2730000" />
+      <workItem from="1582291885301" duration="10423000" />
+      <workItem from="1582304515901" duration="1096000" />
     </task>
     <servers />
   </component>
@@ -223,38 +230,38 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1581174112178" />
-    <state width="1323" height="220" key="GridCell.Tab.0.bottom" timestamp="1582239777093">
+    <state width="1323" height="220" key="GridCell.Tab.0.bottom" timestamp="1582303810791">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="220" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1582239777093" />
-    <state width="1323" height="220" key="GridCell.Tab.0.center" timestamp="1582239777093">
+    <state width="1323" height="220" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1582303810791" />
+    <state width="1323" height="220" key="GridCell.Tab.0.center" timestamp="1582303810791">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="220" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1582239777093" />
-    <state width="1323" height="220" key="GridCell.Tab.0.left" timestamp="1582239777092">
+    <state width="1323" height="220" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1582303810791" />
+    <state width="1323" height="220" key="GridCell.Tab.0.left" timestamp="1582303810791">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="220" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1582239777092" />
-    <state width="1323" height="220" key="GridCell.Tab.0.right" timestamp="1582239777093">
+    <state width="1323" height="220" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1582303810791" />
+    <state width="1323" height="220" key="GridCell.Tab.0.right" timestamp="1582303810791">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="220" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1582239777093" />
-    <state width="1323" height="238" key="GridCell.Tab.1.bottom" timestamp="1582238293504">
+    <state width="1323" height="220" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1582303810791" />
+    <state width="1323" height="238" key="GridCell.Tab.1.bottom" timestamp="1582240287882">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="238" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1582238293504" />
-    <state width="1323" height="238" key="GridCell.Tab.1.center" timestamp="1582238293504">
+    <state width="1323" height="238" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1582240287882" />
+    <state width="1323" height="238" key="GridCell.Tab.1.center" timestamp="1582240287882">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="238" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1582238293504" />
-    <state width="1323" height="238" key="GridCell.Tab.1.left" timestamp="1582238293504">
+    <state width="1323" height="238" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1582240287882" />
+    <state width="1323" height="238" key="GridCell.Tab.1.left" timestamp="1582240287882">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="238" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1582238293504" />
-    <state width="1323" height="238" key="GridCell.Tab.1.right" timestamp="1582238293504">
+    <state width="1323" height="238" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1582240287882" />
+    <state width="1323" height="238" key="GridCell.Tab.1.right" timestamp="1582240287882">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="238" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1582238293504" />
+    <state width="1323" height="238" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1582240287882" />
     <state x="184" y="27" key="SettingsEditor" timestamp="1581176668709">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -263,10 +270,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="498" height="398" key="SwitcherDM/0.0.1366.768@0.0.1366.768" timestamp="1582211609825" />
-    <state x="56" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1582223476637">
+    <state x="56" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1582304518949">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="56" y="165" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1582223476637" />
+    <state x="56" y="165" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1582304518949" />
     <state x="214" y="52" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1581171858599">
       <screen x="0" y="0" width="1366" height="768" />
     </state>

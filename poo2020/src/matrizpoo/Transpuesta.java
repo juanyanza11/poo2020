@@ -1,5 +1,8 @@
-package matriz_poo;
-
+package matrizpoo;
+/**
+ * Taller Grupal - Matrices
+ * Integrantes: Juan Yanza, Joan Brinceño, Alexander Loja, Roberto Narvaez
+ */
 public class Transpuesta {
     // Declaracion de variables
     private int filas = 0;

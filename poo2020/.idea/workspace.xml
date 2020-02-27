@@ -24,10 +24,21 @@
       <change afterPath="$PROJECT_DIR$/src/disenio_repeticion/EjecutaSueldoEmpFor.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/disenio_repeticion/EjecutaSueldoEmpWhile.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/disenio_repeticion/SueldoEmp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/herencia/Administrativo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/herencia/Docente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/herencia/EjecutaPersonal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/herencia/Estudiante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/herencia/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/herencia_empleado/EjecutaEmpleado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/herencia_empleado/Empleado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/herencia_empleado/EmpleadoAsalariado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/herencia_empleado/EmpleadoPorHora.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/matrizpoo/EjecutaMatriz.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/matrizpoo/EjecutaMatrizPromedio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/matrizpoo/EjecutaTranspuesta.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/matrizpoo/Matriz.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/matrizpoo/MatrizPromedio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/matrizpoo/Transpuesta.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/taller_repeticion/Cajero.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/taller_repeticion/Division.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/taller_repeticion/EjecutaCajero.java" afterDir="false" />
@@ -45,6 +56,20 @@
   </component>
   <component name="CoverageViewManager">
     <option name="myElementSize" value="190" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -71,7 +96,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/disenio_repeticion" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/matrizpoo" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -79,43 +104,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Usuario\Documents\POO2020\poo2020\poo2020\src\matrizpoo" />
       <recent name="C:\Users\Usuario\Documents\POO2020\poo2020\poo2020\src\disenio_repeticion" />
       <recent name="C:\Users\Usuario\Documents\POO2020\poo2020\poo2020\src" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="EjecutaBinario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arreglosdeberpoo.EjecutaBinario" />
+  <component name="RunManager" selected="Application.EjecutaEmpleado">
+    <configuration name="EjecutaEmpleado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="herencia_empleado.EjecutaEmpleado" />
       <module name="poo2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arreglosdeberpoo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EjecutaCedula" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arreglosdeberpoo.EjecutaCedula" />
-      <module name="poo2020" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="arreglosdeberpoo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EjecutaMatriz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="matrizpoo.EjecutaMatriz" />
-      <module name="poo2020" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="matrizpoo.*" />
+          <option name="PATTERN" value="herencia_empleado.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,13 +149,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EjecutaPersonal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="herencia.EjecutaPersonal" />
+      <module name="poo2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="herencia.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjecutaTranspuesta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="matrizpoo.EjecutaTranspuesta" />
+      <module name="poo2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="matrizpoo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EjecutaEmpleado" />
+        <item itemvalue="Application.EjecutaPersonal" />
+        <item itemvalue="Application.EjecutaTranspuesta" />
         <item itemvalue="Application.EjecutaMatrizTranspuesta" />
         <item itemvalue="Application.EjecutaMatrizPromedio" />
-        <item itemvalue="Application.EjecutaMatriz" />
-        <item itemvalue="Application.EjecutaCedula" />
-        <item itemvalue="Application.EjecutaBinario" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +217,11 @@
       <workItem from="1582223476446" duration="16764000" />
       <workItem from="1582241518409" duration="2730000" />
       <workItem from="1582291885301" duration="10423000" />
-      <workItem from="1582304515901" duration="1096000" />
+      <workItem from="1582304515901" duration="1466000" />
+      <workItem from="1582306419290" duration="77000" />
+      <workItem from="1582424865262" duration="594000" />
+      <workItem from="1582809755549" duration="501000" />
+      <workItem from="1582810286176" duration="9546000" />
     </task>
     <servers />
   </component>
@@ -210,14 +240,14 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="275" y="43" key="#Project_Structure/0.0.1366.768@0.0.1366.768" timestamp="1581000503143" />
-    <state x="453" y="85" key="#com.intellij.ide.util.MemberChooser" timestamp="1582234070638">
+    <state x="453" y="85" key="#com.intellij.ide.util.MemberChooser" timestamp="1582819295027">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="453" y="85" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1582234070638" />
-    <state x="387" y="68" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" timestamp="1581709102342">
+    <state x="453" y="85" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1582819295027" />
+    <state x="387" y="68" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" timestamp="1582820550732">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="387" y="68" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/0.0.1366.768@0.0.1366.768" timestamp="1581709102342" />
+    <state x="387" y="68" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/0.0.1366.768@0.0.1366.768" timestamp="1582820550732" />
     <state x="275" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1581469295191">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -230,22 +260,22 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1581174112178" />
-    <state width="1323" height="220" key="GridCell.Tab.0.bottom" timestamp="1582303810791">
+    <state width="1323" height="220" key="GridCell.Tab.0.bottom" timestamp="1582820856187">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="220" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1582303810791" />
-    <state width="1323" height="220" key="GridCell.Tab.0.center" timestamp="1582303810791">
+    <state width="1323" height="220" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1582820856187" />
+    <state width="1323" height="220" key="GridCell.Tab.0.center" timestamp="1582820856187">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="220" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1582303810791" />
-    <state width="1323" height="220" key="GridCell.Tab.0.left" timestamp="1582303810791">
+    <state width="1323" height="220" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1582820856187" />
+    <state width="1323" height="220" key="GridCell.Tab.0.left" timestamp="1582820856187">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="220" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1582303810791" />
-    <state width="1323" height="220" key="GridCell.Tab.0.right" timestamp="1582303810791">
+    <state width="1323" height="220" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1582820856187" />
+    <state width="1323" height="220" key="GridCell.Tab.0.right" timestamp="1582820856187">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="220" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1582303810791" />
+    <state width="1323" height="220" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1582820856187" />
     <state width="1323" height="238" key="GridCell.Tab.1.bottom" timestamp="1582240287882">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -266,18 +296,18 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="184" y="27" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1581176668709" />
-    <state width="498" height="398" key="SwitcherDM" timestamp="1582211609825">
+    <state width="498" height="398" key="SwitcherDM" timestamp="1582814682843">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="498" height="398" key="SwitcherDM/0.0.1366.768@0.0.1366.768" timestamp="1582211609825" />
-    <state x="56" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1582304518949">
+    <state width="498" height="398" key="SwitcherDM/0.0.1366.768@0.0.1366.768" timestamp="1582814682843" />
+    <state x="56" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1582810289217">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="56" y="165" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1582304518949" />
-    <state x="214" y="52" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1581171858599">
+    <state x="56" y="165" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1582810289217" />
+    <state x="214" y="52" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1582812154283">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="214" y="52" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.768@0.0.1366.768" timestamp="1581171858599" />
+    <state x="214" y="52" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.768@0.0.1366.768" timestamp="1582812154283" />
     <state x="65" y="5" key="new project wizard" timestamp="1581687368916">
       <screen x="0" y="0" width="1366" height="768" />
     </state>

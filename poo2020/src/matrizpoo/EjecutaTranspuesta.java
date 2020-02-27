@@ -1,5 +1,9 @@
-package matriz_poo;
+package matrizpoo;
 import java.util.Scanner;
+/**
+ * Taller Grupal - Matrices
+ * Integrantes: Juan Yanza, Joan Brinceño, Alexander Loja, Roberto Narvaez
+ */
 public class EjecutaTranspuesta {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);

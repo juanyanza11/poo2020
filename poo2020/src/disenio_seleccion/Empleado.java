@@ -6,7 +6,7 @@ public class Empleado {
     private int horas;
 
     /**
-     * Creación del constructor Empleado
+     * Creación del constructor herenciaautomotriz
      * @param nombre
      * @param cuota
      * @param horas
@@ -38,7 +38,7 @@ public class Empleado {
      * @return cadena
      */
     public String presentar(){
-        cadena = String.format("Nombre Empleado: %s\nSueldo: %.3f",nombre,calcularSueldo());
+        cadena = String.format("Nombre herenciaautomotriz: %s\nSueldo: %.3f",nombre,calcularSueldo());
         return cadena;
     }
 }

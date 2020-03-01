@@ -1,6 +1,9 @@
 package herenciaautomotriz;
-
+/**
+ * SUPERCLASE QUE HEREDA ATRIBUTOS EN COMUN ENTRE LAS CLASES HIJAS
+ */
 public class Empleado {
+
     protected String rfc;
     protected String nombre;
     protected String dep;

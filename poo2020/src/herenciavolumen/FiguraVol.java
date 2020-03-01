@@ -1,5 +1,7 @@
 package herenciavolumen;
-
+/**
+ * SUPERCLASE QUE HEREDA ATRIBUTOS EN COMUN ENTRE LAS CLASES HIJAS
+ */
 public class FiguraVol {
     protected String nombreF;
 

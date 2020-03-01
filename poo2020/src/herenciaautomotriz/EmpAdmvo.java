@@ -1,5 +1,7 @@
 package herenciaautomotriz;
-
+/**
+ * CLASE HIJA QUE HEREDA PARAMETROS EN COMUN DE LA CLASE PADRE EMPLEADO
+ */
 public class EmpAdmvo extends  Empleado{
     private double sueldoquincenal;
     private double sueldoMen;

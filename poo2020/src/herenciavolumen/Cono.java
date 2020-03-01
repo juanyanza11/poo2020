@@ -1,5 +1,7 @@
 package herenciavolumen;
-
+/**
+ * CLASE HIJA QUE HEREDA PARAMETROS EN COMUN DE LA CLASE PADRE FIGURAVOL
+ */
 public class Cono extends FiguraVol{
     private double radio, altura, volCono;
 
@@ -9,7 +11,7 @@ public class Cono extends FiguraVol{
         this.nombreF = nombre;
     }
     public double obtenerVolCOno(){
-        volCono = (1/3)* (Math.PI*Math.pow(radio,2)*altura);
+        volCono = ((Math.PI * Math.pow(radio,2)*altura))/3;
         return volCono;
     }
 }

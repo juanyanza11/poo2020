@@ -25,7 +25,9 @@ public class EjecutaFiguraVol {
                 nombre = "CUBO";
                 System.out.println("Ingrese el valor de las aristas del cubo:");
                 double aristas = entrada.nextDouble();
+                // CREACION DEL OBJETO Y ENVIO DE PARAMETROS AL CONSTRUCTOR
                 Cubo cubo = new Cubo(aristas, nombre);
+                // ACUMULACIÓN DE CADENAS PARA EL FORMATO DE LA PRESENTACIÓN
                 System.out.printf("EL VOLUMEN DEL %s es %.2f\n", cubo.getNombreF(), cubo.obtenerVolCubo());
             }else{
                 if (opcion1 == 2){
@@ -34,7 +36,9 @@ public class EjecutaFiguraVol {
                     double radioCil = entrada.nextDouble();
                     System.out.println("Ingrese el valor de la altura del cilindro");
                     double alturaCil = entrada.nextDouble();
+                    // CREACION DEL OBJETO Y ENVIO DE PARAMETROS AL CONSTRUCTOR
                     Cilindro cil = new Cilindro(radioCil, alturaCil, nombre);
+                    // ACUMULACIÓN DE CADENAS PARA EL FORMATO DE LA PRESENTACIÓN
                     System.out.printf("EL VOLUMEN DEL %s ES %.2f\n", cil.getNombreF(), cil.obtenerVolCilindro());
                 }else{
                     if (opcion1 == 3){
@@ -43,20 +47,24 @@ public class EjecutaFiguraVol {
                         double radioCono = entrada.nextDouble();
                         System.out.println("Ingrese el valor de la altura del cono");
                         double alturaCono = entrada.nextDouble();
+                        // CREACION DEL OBJETO Y ENVIO DE PARAMETROS AL CONSTRUCTOR
                         Cono cono = new Cono(radioCono, alturaCono, nombre);
+                        // ACUMULACIÓN DE CADENAS PARA EL FORMATO DE LA PRESENTACIÓN
                         System.out.printf("EL VOLUMEN DEL %s ES %.2f\n", cono.getNombreF(), cono.obtenerVolCOno());
                     }else{
                         if (opcion1 == 4){
                             nombre = "ESFERA";
                             System.out.println("Ingrese el radio de la esfera");
                             double radioEsf = entrada.nextDouble();
+                            // CREACION DEL OBJETO Y ENVIO DE PARAMETROS AL CONSTRUCTOR
                             Esfera esfera = new Esfera(radioEsf,nombre);
+                            // ACUMULACIÓN DE CADENAS PARA EL FORMATO DE LA PRESENTACIÓN
                             System.out.printf("EL VOLUMEN DEL %s ES %.2f\n", esfera.getNombreF(), esfera.obtenerVolEsf());
                         }
                     }
                 }
             }
-            System.out.printf("DESEA INGRESAR OTRA FIGURA\n1. Si\n2.No");
+            System.out.printf("DESEA INGRESAR OTRA FIGURA\n1. Si\n2. No\n");
             opcion2 = entrada.nextInt();
 
             if (opcion2 == 2){

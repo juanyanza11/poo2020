@@ -112,7 +112,7 @@
   </component>
   <component name="Git.Settings">
     <option name="PATH_TO_GIT" value="C:\Program Files\Git\bin\git.exe" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1XREPLoKyRLdGuUDL3HkHECLDT3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -128,7 +128,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/matrizpoo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -141,7 +141,7 @@
       <recent name="C:\Users\Usuario\Documents\POO2020\poo2020\poo2020\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EjecutaFiguraVol">
+  <component name="RunManager" selected="Application.EjecutaFigura3">
     <configuration name="EjecutaClienteDeudor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="herenciadeudores.EjecutaClienteDeudor" />
       <module name="poo2020" />
@@ -168,12 +168,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EjecutaFigura" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="herenciafigura.EjecutaFigura" />
+    <configuration name="EjecutaFigura3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="polimorfismofigura.EjecutaFigura3" />
       <module name="poo2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="herenciafigura.*" />
+          <option name="PATTERN" value="polimorfismofigura.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -209,11 +209,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EjecutaFigura3" />
         <item itemvalue="Application.EjecutaFiguraVol" />
         <item itemvalue="Application.EjecutaInversionista" />
         <item itemvalue="Application.EjecutaClienteDeudor" />
         <item itemvalue="Application.EjecutaEmpleado (1)" />
-        <item itemvalue="Application.EjecutaFigura" />
       </list>
     </recent_temporary>
   </component>

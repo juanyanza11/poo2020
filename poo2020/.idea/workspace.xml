@@ -1,83 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d7b5b469-1e37-4b9e-919a-a50862087b0f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/arreglos_poo/DesvicacionMedia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arreglos_poo/EjecutaDM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arreglos_poo/EjecutaProducto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arreglos_poo/EjecutaSumaArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arreglos_poo/Producto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arreglos_poo/SumaArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arreglosdeberpoo/Binario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arreglosdeberpoo/Cedula.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arreglosdeberpoo/DatosEstudiante.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arreglosdeberpoo/EjecutaBinario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arreglosdeberpoo/EjecutaCedula.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arreglosdeberpoo/EjecutaDatosEstudiantes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/deber_seleccion/EjecutaEstudianteNota.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/deber_seleccion/EjecutaMayorNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/deber_seleccion/EjecutaSueldoEmp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/deber_seleccion/EstudianteNota.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/deber_seleccion/MayorNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/deber_seleccion/SueldoEmp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/disenio_repeticion/EjecutaSueldoEmp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/disenio_repeticion/EjecutaSueldoEmpFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/disenio_repeticion/EjecutaSueldoEmpWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/disenio_repeticion/SueldoEmp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herencia/Administrativo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herencia/Docente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herencia/EjecutaPersonal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herencia/Estudiante.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herencia/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herencia_empleado/EjecutaEmpleado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herencia_empleado/Empleado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herencia_empleado/EmpleadoAsalariado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herencia_empleado/EmpleadoPorHora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herenciaautomotriz/EjecutaEmpleado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herenciaautomotriz/EmpAdmvo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herenciaautomotriz/EmpMecanico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herenciaautomotriz/EmpVendedor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herenciaautomotriz/Empleado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herenciadeudores/ClienteDeudor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herenciadeudores/EjecutaClienteDeudor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herenciadeudores/PrestamoAuto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herenciadeudores/PrestamoHipotecario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herenciadeudores/PrestamoPersonal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herenciafigura/Circulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herenciafigura/Cuadrado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herenciafigura/EjecutaFigura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herenciafigura/Figura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herenciafigura/Rectangulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herenciafigura/Triangulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herenciainversionistas/CuentaAhorro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herenciainversionistas/CuentaMaestra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herenciainversionistas/EjecutaInversionista.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herenciainversionistas/Inversionista.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herenciainversionistas/Pagare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herenciavolumen/Cilindro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herenciavolumen/Cono.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herenciavolumen/Cubo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herenciavolumen/EjecutaFiguraVol.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herenciavolumen/Esfera.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herenciavolumen/FiguraVol.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/matrizpoo/EjecutaMatriz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/matrizpoo/EjecutaMatrizPromedio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/matrizpoo/EjecutaTranspuesta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/matrizpoo/Matriz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/matrizpoo/MatrizPromedio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/matrizpoo/Transpuesta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/taller_repeticion/Cajero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/taller_repeticion/Division.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/taller_repeticion/EjecutaCajero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/taller_repeticion/EjecutaDivison.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/taller_repeticion/EjecutaFactorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/taller_repeticion/EjecutaMultiplicacionSumas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/taller_repeticion/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/taller_repeticion/MultiplicacionSumas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/poo2020/disenio_seleccion/Empleado.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/poo2020/disenio_seleccion/Empleado.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/disenio_seleccion/Empleado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/disenio_seleccion/Empleado.java" afterDir="false" />
-    </list>
+    <list default="true" id="d7b5b469-1e37-4b9e-919a-a50862087b0f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -128,26 +52,28 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/polimorfismodeudores" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Usuario\Documents\POO2020\poo2020\poo2020\src\polimorfismodeudores" />
+      <recent name="C:\Users\Usuario\Documents\POO2020\poo2020\poo2020\src\polimorfismoinversionistas" />
+      <recent name="C:\Users\Usuario\Documents\POO2020\poo2020\poo2020\src\polimorfismoautomotriz" />
       <recent name="C:\Users\Usuario\Documents\POO2020\poo2020\poo2020\src\matrizpoo" />
       <recent name="C:\Users\Usuario\Documents\POO2020\poo2020\poo2020\src\disenio_repeticion" />
-      <recent name="C:\Users\Usuario\Documents\POO2020\poo2020\poo2020\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EjecutaFigura3">
+  <component name="RunManager" selected="Application.EjecutaClienteDeudor">
     <configuration name="EjecutaClienteDeudor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="herenciadeudores.EjecutaClienteDeudor" />
+      <option name="MAIN_CLASS_NAME" value="polimorfismodeudores.EjecutaClienteDeudor" />
       <module name="poo2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="herenciadeudores.*" />
+          <option name="PATTERN" value="polimorfismodeudores.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,12 +81,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EjecutaEmpleado (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="herenciaautomotriz.EjecutaEmpleado" />
+    <configuration name="EjecutaEmpleado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="polimorfismoautomotriz.EjecutaEmpleado" />
       <module name="poo2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="herenciaautomotriz.*" />
+          <option name="PATTERN" value="polimorfismoautomotriz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjecutaFigura2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="polimorfismovolumen.EjecutaFigura2" />
+      <module name="poo2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="polimorfismovolumen.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,25 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EjecutaFiguraVol" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="herenciavolumen.EjecutaFiguraVol" />
+    <configuration name="EjecutaInversionista (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="polimorfismoinversionistas.EjecutaInversionista" />
       <module name="poo2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="herenciavolumen.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EjecutaInversionista" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="herenciainversionistas.EjecutaInversionista" />
-      <module name="poo2020" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="herenciainversionistas.*" />
+          <option name="PATTERN" value="polimorfismoinversionistas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -209,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EjecutaFigura3" />
-        <item itemvalue="Application.EjecutaFiguraVol" />
-        <item itemvalue="Application.EjecutaInversionista" />
         <item itemvalue="Application.EjecutaClienteDeudor" />
-        <item itemvalue="Application.EjecutaEmpleado (1)" />
+        <item itemvalue="Application.EjecutaInversionista (1)" />
+        <item itemvalue="Application.EjecutaEmpleado" />
+        <item itemvalue="Application.EjecutaFigura2" />
+        <item itemvalue="Application.EjecutaFigura3" />
       </list>
     </recent_temporary>
   </component>
@@ -257,6 +183,8 @@
       <workItem from="1582896412830" duration="13429000" />
       <workItem from="1583077407727" duration="8549000" />
       <workItem from="1583088474724" duration="12164000" />
+      <workItem from="1583338833267" duration="467000" />
+      <workItem from="1583414826965" duration="9474000" />
     </task>
     <servers />
   </component>
@@ -275,14 +203,14 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="275" y="43" key="#Project_Structure/0.0.1366.768@0.0.1366.768" timestamp="1581000503143" />
-    <state x="453" y="85" key="#com.intellij.ide.util.MemberChooser" timestamp="1583092229606">
+    <state x="453" y="85" key="#com.intellij.ide.util.MemberChooser" timestamp="1583418874613">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="453" y="85" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1583092229606" />
-    <state x="387" y="68" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" timestamp="1583093751670">
+    <state x="453" y="85" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1583418874613" />
+    <state x="387" y="68" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" timestamp="1583418395564">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="387" y="68" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/0.0.1366.768@0.0.1366.768" timestamp="1583093751670" />
+    <state x="387" y="68" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/0.0.1366.768@0.0.1366.768" timestamp="1583418395564" />
     <state x="275" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1582904192886">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -295,50 +223,50 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1581174112178" />
-    <state width="1323" height="220" key="GridCell.Tab.0.bottom" timestamp="1583100829267">
+    <state width="1323" height="234" key="GridCell.Tab.0.bottom" timestamp="1583419029367">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="220" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1583100829267" />
-    <state width="1323" height="220" key="GridCell.Tab.0.center" timestamp="1583100829266">
+    <state width="1323" height="234" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1583419029367" />
+    <state width="1323" height="234" key="GridCell.Tab.0.center" timestamp="1583419029367">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="220" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1583100829266" />
-    <state width="1323" height="220" key="GridCell.Tab.0.left" timestamp="1583100829266">
+    <state width="1323" height="234" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1583419029367" />
+    <state width="1323" height="234" key="GridCell.Tab.0.left" timestamp="1583419029367">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="220" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1583100829266" />
-    <state width="1323" height="220" key="GridCell.Tab.0.right" timestamp="1583100829267">
+    <state width="1323" height="234" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1583419029367" />
+    <state width="1323" height="234" key="GridCell.Tab.0.right" timestamp="1583419029367">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="220" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1583100829267" />
-    <state width="1323" height="238" key="GridCell.Tab.1.bottom" timestamp="1583086170085">
+    <state width="1323" height="234" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1583419029367" />
+    <state width="1323" height="234" key="GridCell.Tab.1.bottom" timestamp="1583419029367">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="238" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1583086170085" />
-    <state width="1323" height="238" key="GridCell.Tab.1.center" timestamp="1583086170085">
+    <state width="1323" height="234" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1583419029367" />
+    <state width="1323" height="234" key="GridCell.Tab.1.center" timestamp="1583419029367">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="238" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1583086170085" />
-    <state width="1323" height="238" key="GridCell.Tab.1.left" timestamp="1583086170085">
+    <state width="1323" height="234" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1583419029367" />
+    <state width="1323" height="234" key="GridCell.Tab.1.left" timestamp="1583419029367">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="238" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1583086170085" />
-    <state width="1323" height="238" key="GridCell.Tab.1.right" timestamp="1583086170085">
+    <state width="1323" height="234" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1583419029367" />
+    <state width="1323" height="234" key="GridCell.Tab.1.right" timestamp="1583419029367">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="238" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1583086170085" />
-    <state x="184" y="0" key="SettingsEditor" timestamp="1582903618803">
+    <state width="1323" height="234" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1583419029367" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1583339110670">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="184" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1582903618803" />
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1583339110670" />
     <state width="498" height="398" key="SwitcherDM" timestamp="1582814682843">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="498" height="398" key="SwitcherDM/0.0.1366.768@0.0.1366.768" timestamp="1582814682843" />
-    <state x="56" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1583088479434">
+    <state x="56" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1583414852879">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="56" y="165" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1583088479434" />
+    <state x="56" y="165" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1583414852879" />
     <state x="214" y="52" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1582812154283">
       <screen x="0" y="0" width="1366" height="768" />
     </state>

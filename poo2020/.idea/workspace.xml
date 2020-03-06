@@ -67,13 +67,13 @@
       <recent name="C:\Users\Usuario\Documents\POO2020\poo2020\poo2020\src\disenio_repeticion" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EjecutaClienteDeudor">
-    <configuration name="EjecutaClienteDeudor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="polimorfismodeudores.EjecutaClienteDeudor" />
+  <component name="RunManager" selected="Application.ListaEstudiante">
+    <configuration name="EjecutaEstudiante" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datos_tipo_objeto.EjecutaEstudiante" />
       <module name="poo2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="polimorfismodeudores.*" />
+          <option name="PATTERN" value="datos_tipo_objeto.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EjecutaEmpleado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="polimorfismoautomotriz.EjecutaEmpleado" />
+    <configuration name="EjecutaVehiculo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datos_tipo_objeto.EjecutaVehiculo" />
       <module name="poo2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="polimorfismoautomotriz.*" />
+          <option name="PATTERN" value="datos_tipo_objeto.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EjecutaFigura2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="polimorfismovolumen.EjecutaFigura2" />
+    <configuration name="EjemploLista" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datos_tipo_objeto.EjemploLista" />
       <module name="poo2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="polimorfismovolumen.*" />
+          <option name="PATTERN" value="datos_tipo_objeto.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EjecutaFigura3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="polimorfismofigura.EjecutaFigura3" />
+    <configuration name="ListaEstudiante" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datos_tipo_objeto.ListaEstudiante" />
       <module name="poo2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="polimorfismofigura.*" />
+          <option name="PATTERN" value="datos_tipo_objeto.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EjecutaInversionista (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="polimorfismoinversionistas.EjecutaInversionista" />
+    <configuration name="ListaNombres" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datos_tipo_objeto.ListaNombres" />
       <module name="poo2020" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="polimorfismoinversionistas.*" />
+          <option name="PATTERN" value="datos_tipo_objeto.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EjecutaClienteDeudor" />
-        <item itemvalue="Application.EjecutaInversionista (1)" />
-        <item itemvalue="Application.EjecutaEmpleado" />
-        <item itemvalue="Application.EjecutaFigura2" />
-        <item itemvalue="Application.EjecutaFigura3" />
+        <item itemvalue="Application.ListaEstudiante" />
+        <item itemvalue="Application.EjecutaVehiculo" />
+        <item itemvalue="Application.EjemploLista" />
+        <item itemvalue="Application.ListaNombres" />
+        <item itemvalue="Application.EjecutaEstudiante" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +184,9 @@
       <workItem from="1583077407727" duration="8549000" />
       <workItem from="1583088474724" duration="12164000" />
       <workItem from="1583338833267" duration="467000" />
-      <workItem from="1583414826965" duration="9474000" />
+      <workItem from="1583414826965" duration="10190000" />
+      <workItem from="1583447252157" duration="14321000" />
+      <workItem from="1583501056468" duration="12456000" />
     </task>
     <servers />
   </component>
@@ -195,22 +197,22 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="43" key="#Notifications" timestamp="1581173863454">
+    <state x="275" y="43" key="#Notifications" timestamp="1583501123352">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="275" y="43" key="#Notifications/0.0.1366.768@0.0.1366.768" timestamp="1581173863454" />
+    <state x="275" y="43" key="#Notifications/0.0.1366.768@0.0.1366.768" timestamp="1583501123352" />
     <state x="275" y="43" key="#Project_Structure" timestamp="1581000503143">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="275" y="43" key="#Project_Structure/0.0.1366.768@0.0.1366.768" timestamp="1581000503143" />
-    <state x="453" y="85" key="#com.intellij.ide.util.MemberChooser" timestamp="1583418874613">
+    <state x="453" y="85" key="#com.intellij.ide.util.MemberChooser" timestamp="1583510979058">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="453" y="85" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1583418874613" />
-    <state x="387" y="68" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" timestamp="1583418395564">
+    <state x="453" y="85" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1583510979058" />
+    <state x="387" y="68" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" timestamp="1583512079620">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="387" y="68" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/0.0.1366.768@0.0.1366.768" timestamp="1583418395564" />
+    <state x="387" y="68" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/0.0.1366.768@0.0.1366.768" timestamp="1583512079620" />
     <state x="275" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1582904192886">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -223,38 +225,38 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1581174112178" />
-    <state width="1323" height="234" key="GridCell.Tab.0.bottom" timestamp="1583419029367">
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom" timestamp="1583514802643">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="234" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1583419029367" />
-    <state width="1323" height="234" key="GridCell.Tab.0.center" timestamp="1583419029367">
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1583514802643" />
+    <state width="1323" height="223" key="GridCell.Tab.0.center" timestamp="1583514802643">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="234" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1583419029367" />
-    <state width="1323" height="234" key="GridCell.Tab.0.left" timestamp="1583419029367">
+    <state width="1323" height="223" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1583514802643" />
+    <state width="1323" height="223" key="GridCell.Tab.0.left" timestamp="1583514802643">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="234" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1583419029367" />
-    <state width="1323" height="234" key="GridCell.Tab.0.right" timestamp="1583419029367">
+    <state width="1323" height="223" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1583514802643" />
+    <state width="1323" height="223" key="GridCell.Tab.0.right" timestamp="1583514802643">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="234" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1583419029367" />
-    <state width="1323" height="234" key="GridCell.Tab.1.bottom" timestamp="1583419029367">
+    <state width="1323" height="223" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1583514802643" />
+    <state width="1323" height="234" key="GridCell.Tab.1.bottom" timestamp="1583426913064">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="234" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1583419029367" />
-    <state width="1323" height="234" key="GridCell.Tab.1.center" timestamp="1583419029367">
+    <state width="1323" height="234" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1583426913064" />
+    <state width="1323" height="234" key="GridCell.Tab.1.center" timestamp="1583426913064">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="234" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1583419029367" />
-    <state width="1323" height="234" key="GridCell.Tab.1.left" timestamp="1583419029367">
+    <state width="1323" height="234" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1583426913064" />
+    <state width="1323" height="234" key="GridCell.Tab.1.left" timestamp="1583426913064">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="234" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1583419029367" />
-    <state width="1323" height="234" key="GridCell.Tab.1.right" timestamp="1583419029367">
+    <state width="1323" height="234" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1583426913064" />
+    <state width="1323" height="234" key="GridCell.Tab.1.right" timestamp="1583426913064">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="234" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1583419029367" />
+    <state width="1323" height="234" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1583426913064" />
     <state x="184" y="0" key="SettingsEditor" timestamp="1583339110670">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -263,10 +265,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="498" height="398" key="SwitcherDM/0.0.1366.768@0.0.1366.768" timestamp="1582814682843" />
-    <state x="56" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1583414852879">
+    <state x="56" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1583501050193">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="56" y="165" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1583414852879" />
+    <state x="56" y="165" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1583501050193" />
     <state x="214" y="52" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1582812154283">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -275,14 +277,14 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="65" y="5" key="new project wizard/0.0.1366.768@0.0.1366.768" timestamp="1581687368916" />
-    <state x="339" y="172" key="run.anything.popup" timestamp="1582906011473">
+    <state x="339" y="172" key="run.anything.popup" timestamp="1583513375844">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="339" y="172" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1582906011473" />
-    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1583080319459">
+    <state x="339" y="172" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1583513375844" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1583504752821">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1583080319459" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1583504752821" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/poo2020$EjecutaCajero.ic" NAME="EjecutaCajero Coverage Results" MODIFIED="1581713144406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
